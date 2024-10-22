@@ -1,1 +1,1 @@
-![alt text](assets/images/nationaldept.png)
+![alt text](assets/images/nationaldebt.png)
